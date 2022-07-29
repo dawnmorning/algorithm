@@ -4,5 +4,6 @@
 #         continue  #이 경우는 넘어간다
 #     print(i, end = ' ')
 
-a,b = input().split(':')
-print(a,b,sep=':')
+# a,b = input().split(':')
+# print(a,b,sep=':')
+
