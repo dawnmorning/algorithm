@@ -6,10 +6,10 @@ def bfs(s, e):
     q = deque()
     q.append(s)
     while q:
-        jokbo = q.popleft()
-        for v in link[jokbo]:
+        vs = q.popleft()
+        for v in link[vs]:
             if visit[v] == -1:
-                visit[v] = visit[jokbo] + 1
+                visit[v] = visit[vs] + 1
                 if v == e:
                     return visit[v]
                 q.append(v)
