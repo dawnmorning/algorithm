@@ -21,7 +21,7 @@ for _ in range(t):
             ny = y + dc[i]
             if nx<0 or ny<0 or nx >= l or ny >=l:
                 continue
-            if chess[nx][ny] == 0 :
+            if chess[nx][ny] == 0:
                 chess[nx][ny] = chess[x][y] + 1
                 q.append((nx,ny))
     print(chess[ob_x][ob_y])
