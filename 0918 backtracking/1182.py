@@ -37,4 +37,4 @@ for i in range(1, len(nums)+1):
     for num in result:
         if (sum(num) == S):
             cnt += 1
-print (cnt)
+print(cnt)
