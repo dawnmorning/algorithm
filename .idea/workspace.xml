@@ -37,7 +37,7 @@
       <recent name="C:\Users\Kim jong hyeok\ssafy8\webex_student\baekjoon\0918 backtracking" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.14891">
+  <component name="RunManager" selected="Python.16236_babyshark">
     <configuration name="14582" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="baekjoon" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -101,7 +101,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="15650" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="16236_babyshark" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="baekjoon" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -109,11 +109,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/0918 backtracking" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/0918 backtracking/15650.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/16236_babyshark.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -145,11 +145,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.16236_babyshark" />
         <item itemvalue="Python.14891" />
         <item itemvalue="Python.14582" />
         <item itemvalue="Python.2822" />
         <item itemvalue="Python.15649" />
-        <item itemvalue="Python.15650" />
       </list>
     </recent_temporary>
   </component>
@@ -205,10 +205,5 @@
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
-    <watches-manager>
-      <configuration name="PythonConfigurationType">
-        <watch expression="chain" />
-      </configuration>
-    </watches-manager>
   </component>
 </project>
