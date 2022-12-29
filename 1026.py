@@ -9,4 +9,5 @@ for i in range(n):
     value += min(b) * max(a)
     a.remove(max(a))
     b.remove(min(b))
+    # print(b)
 print(value)
