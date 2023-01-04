@@ -42,5 +42,5 @@ for i in range(h):
             day = -1
             break
 # print(box[1][1])
-print(box)
+# print(box)
 print(day)
