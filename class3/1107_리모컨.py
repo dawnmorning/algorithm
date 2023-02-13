@@ -1,17 +1,3 @@
-# import sys
-# input = sys.stdin.readline
-# n = int(input())
-# m = int(input())
-# remote = [True for _ in range(10)]
-# if m !=0 :
-#     abnormal = list(map(int, input().split()))
-#     for i in abnormal:
-#         remote[i] = False
-# # 무지성 ++, --로 해당 값까지 가는 방법
-# cnt = abs(n-100)
-
-# for i in range(1000001):
-#     li
 import sys
 
 input = sys.stdin.readline
