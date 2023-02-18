@@ -46,7 +46,8 @@ for i in range(1, n+1):
         if i == j:
             graph[i][j] =0
 
-# k는 거쳐가는 지점           
+# k는 거쳐가는 지점
+# N^3 ???????           
 for k in range(1, n+1):
     for i in range(1, n+1):
         for j in range(1,n+1):

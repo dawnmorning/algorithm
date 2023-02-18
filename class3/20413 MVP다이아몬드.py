@@ -20,3 +20,4 @@ for i in range(n):
         sum += d
         prev = d
 print(sum)
+

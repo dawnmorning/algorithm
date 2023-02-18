@@ -9,7 +9,7 @@ for i in range(n):
     q.append([a,''])
     visited = [False] * 10000
     visited[a] = True
-
+    
     while q: 
         num, answer = q.popleft()
         if num == b : 
