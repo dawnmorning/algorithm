@@ -1,3 +1,5 @@
+# from math import comb
+
 n, m = map(int, input().split())
 # 1 ~ n까지 팩토리얼 값이 담길 공간
 factorial_arr = [0 for _ in range(n+1)]
